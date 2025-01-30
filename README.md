@@ -1,2 +1,5 @@
-Experienced Mechanical Engineer with 14 years of expertise in electromechanical design, finite element analysis (FEA), and manufacturing process optimization. Strong background in developing high-precision components, including medical device mechanisms, server structures, and smartphone camera modules. Proficient in SolidWorks, FEA simulations, and design for manufacturability (DFM). Adept at collaborating with cross-functional teams to drive product innovation and ensure compliance with industry standards.![image](https://github.com/user-attachments/assets/2b960213-0e2f-4578-89ba-ab5d972e9f4a)
+Experienced Mechanical Engineer with 14 years of expertise in electromechanical design, finite element analysis (FEA), and manufacturing process optimization. 
+Strong background in developing high-precision components, including medical device mechanisms, server structures, and smartphone camera modules. 
+Proficient in SolidWorks, FEA simulations, and design for manufacturability (DFM). 
+Adept at collaborating with cross-functional teams to drive product innovation and ensure compliance with industry standards.
 
